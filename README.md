@@ -31,6 +31,6 @@ Step two:
 
 cd '/home/kaliuser/Загрузки/rtl8188eus'
 
-echo ......2 | sudo -S make && sudo make install
+echo parol | sudo -S make && sudo make install
 
 reboot
